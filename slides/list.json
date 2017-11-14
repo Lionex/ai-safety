@@ -1,1 +1,9 @@
-["index.md"]
+[
+    {
+        "filename": "ai-safety.html",
+        "attr": {
+            "data-state": "section-title"
+        }
+    },
+    "scope.html"
+]
