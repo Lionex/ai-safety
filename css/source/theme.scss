@@ -18,24 +18,28 @@
 
 // Include theme-specific fonts
 @import url(../bower_components/reveal.js/lib/font/source-sans-pro/source-sans-pro.css);
-
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
 
 // Override theme settings (see ../../bower_components/reveal.js/css/theme/template/settings.scss)
-$backgroundColor: #222;
+$backgroundColor: #ffffff;
 
-$mainColor: #fff;
-$headingColor: #fff;
+$mainColor: #333333;
+$headingColor: #333333;
 
 $mainFontSize: 38px;
-$mainFont: 'Source Sans Pro', Helvetica, sans-serif;
+$mainFont: 'Roboto', Helvetica, sans-serif;
+$monospaceFont: 'Source Code Pro';
 $headingFont: 'Source Sans Pro', Helvetica, sans-serif;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
 $headingFontWeight: 600;
-$linkColor: #42affa;
-$linkColorHover: lighten( $linkColor, 15% );
+$linkColor: #ff4081;
+$linkColorHover: #ff8db3;
 $selectionBackgroundColor: lighten( $linkColor, 25% );
+$sectionBackgroundColor:  #A5257F;
+$sectionFontColor:  #ffffff;
+$subsectionBackgroundColor: #84A8CA;
 
 $heading1Size: 2.5em;
 $heading2Size: 1.6em;
@@ -48,6 +52,45 @@ section.has-light-background {
 	}
 }
 
+
 // Theme template ------------------------------
 @import "../../bower_components/reveal.js/css/theme/template/theme";
 // ---------------------------------------------
+
+// Overwrite reveal settings with custom settings
+.reveal code,
+.reveal pre {
+	font-family: $monospaceFont, monospace;
+	text-transform: none;
+	background: rgba(0,0,0,0.0392);
+	border-radius: 0.08em;
+	padding: 0.05em 0.1em;
+}
+
+.reveal li > code {
+    display: inline-block;
+    margin: 0.15em 0em;
+}
+
+.section-title body {
+    background: $sectionBackgroundColor;
+    backround-color: $sectionBackgroundColor;
+
+	color: $sectionFontColor !important;
+
+}
+
+.section-title body main section,
+.section-title body main section h1,
+.subsection-title body main section,
+.subsection-title body main section h1,
+.subsection-title body main section h2 {
+	color: $sectionFontColor !important;
+}
+
+.subsection-title body {
+    background: $subsectionBackgroundColor;
+    backround-color: $subsectionBackgroundColor;
+    color: $sectionFontColor !important;
+
+}
