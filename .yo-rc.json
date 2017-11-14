@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "AI Safety & Word2Vec",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "Lionex",
+    "githubRepository": "ai-safety"
+  }
+}
