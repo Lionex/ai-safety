@@ -2,6 +2,12 @@
 
 This presentation covers some topics within AI safety as an introduction to discuss the paper "[Man is to Woman as Computer Programmer is to Housewife]," which is the primary focus of this talk.
 
+Created using the yeoman generator for reveal.js; you can run the presentation server locally, if you have `npm` and `grunt` installed, with `grunt serve`.  This gives access to features like speaker notes:
+
+![demonstrate speaker notes](resources/notes.gif)
+
+Super useful if you intend to give a version of this presentation yourself.
+
 # References
 
 1. Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan Mane. _[Concrete Problems in AI Safety]_. July 2016. Retreived from [https://arxiv.org/pdf/1606.06565v2.pdf].
