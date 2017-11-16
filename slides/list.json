@@ -7,5 +7,12 @@
     },
     "paper-intro.html",
     "scope.html",
+    {
+        "filename": "1-safety.html",
+        "attr": {
+            "data-state": "section-title"
+        }
+    },
+    "1-def-accident.html",
     "references.html"
 ]
