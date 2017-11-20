@@ -14,5 +14,12 @@
         }
     },
     "1-def-accident.html",
+    {
+        "filename": "2-priors.md",
+        "attr": {
+            "data-state": "section-title"
+        }
+    },
+    "2-nudge-sketch.html",
     "references.html"
 ]
