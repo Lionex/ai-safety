@@ -20,6 +20,13 @@
             "data-state": "section-title"
         }
     },
-    "2-nudge-sketch.html",
+    {
+        "attr": {
+            "id": "sketch-nudge",
+             "data-background-interactive": null,
+             "data-background-iframe": "sketch/nudge/index.html",
+             "data-state": "sketch-nudge"
+        }
+    },
     "references.html"
 ]

@@ -97,3 +97,14 @@ section .references {
     color: $sectionFontColor !important;
 
 }
+
+.slides,
+.reveal .slides>section[data-background-interactive],
+.reveal .slides>section>section[data-background-interactive] {
+    pointer-events: none;
+}
+
+.reveal .slides>section,
+.reveal .slides>section>section {
+    pointer-events: all;
+}
