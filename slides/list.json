@@ -8,14 +8,14 @@
     "paper-intro.html",
     "scope.html",
     {
-        "filename": "1-safety.html",
+        "filename": "safety/title.html",
         "attr": {
             "data-state": "section-title"
         }
     },
-    "1-def-accident.html",
+    "safety/def-accident.html",
     {
-        "filename": "2-priors.md",
+        "filename": "priors/title.md",
         "attr": {
             "data-state": "section-title"
         }
