@@ -20,12 +20,13 @@
             "data-state": "section-title"
         }
     },
+    "priors/scope.md",
     {
         "attr": {
             "id": "sketch-nudge",
-             "data-background-interactive": null,
-             "data-background-iframe": "sketch/nudge/index.html",
-             "data-state": "sketch-nudge"
+            "data-background-interactive": null,
+            "data-background-iframe": "sketch/nudge/index.html",
+            "data-state": "sketch-nudge"
         }
     },
     "references.html"
