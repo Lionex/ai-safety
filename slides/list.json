@@ -22,6 +22,14 @@
     },
     "priors/scope.md",
     {
+        "filename": "priors/bias.md",
+        "attr": {
+            "data-state": "subsection-title"
+        }
+    },
+    "priors/english-bias.md",
+    "priors/algorithm-bias.md",
+    {
         "attr": {
             "id": "sketch-nudge",
             "data-background-interactive": null,
