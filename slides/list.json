@@ -33,8 +33,7 @@
         "attr": {
             "id": "sketch-nudge",
             "data-background-interactive": null,
-            "data-background-iframe": "sketch/nudge/index.html",
-            "data-state": "sketch-nudge"
+            "data-background-iframe": "sketch/nudge/index.html"
         }
     },
     {
