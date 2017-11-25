@@ -28,6 +28,7 @@
         }
     },
     "priors/english-bias.md",
+    "priors/stereotype.md",
     "priors/algorithm-bias.md",
     {
         "attr": {
