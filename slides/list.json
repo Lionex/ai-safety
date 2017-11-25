@@ -8,13 +8,6 @@
     "paper-intro.html",
     "scope.html",
     {
-        "filename": "safety/title.html",
-        "attr": {
-            "data-state": "section-title"
-        }
-    },
-    "safety/def-accident.html",
-    {
         "filename": "priors/title.md",
         "attr": {
             "data-state": "section-title"
@@ -30,10 +23,19 @@
     "priors/english-bias.md",
     "priors/stereotype.md",
     "priors/algorithm-bias.md",
+    "priors/word2vec-bias.md",
+    "priors/def-accident.html",
     {
         "filename": "priors/algorithm.md",
         "attr": {
             "data-state": "subsection-title"
+        }
+    },
+    {
+        "attr": {
+            "id": "wevi",
+            "data-background-interactive": null,
+            "data-background-iframe": "https://ronxin.github.io/wevi/"
         }
     },
     {
