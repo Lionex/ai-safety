@@ -31,6 +31,18 @@
     "priors/stereotype.md",
     "priors/algorithm-bias.md",
     {
+        "filename": "priors/algorithm.md",
+        "attr": {
+            "data-state": "subsection-title"
+        }
+    },
+    {
+        "filename": "priors/insights.md",
+        "attr": {
+            "data-state": "subsection-title"
+        }
+    },
+    {
         "attr": {
             "id": "sketch-nudge",
             "data-background-interactive": null,
