@@ -4,7 +4,6 @@
   "dependencies": {
     "reveal.js": "~3.6.0",
     "highlightjs": "~9.0.0",
-    "MathJax": "~2.7.2",
     "p5js": "~0.5.13"
   }
 }
