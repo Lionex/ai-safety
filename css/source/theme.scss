@@ -108,3 +108,9 @@ section .references {
 .reveal .slides>section>section {
     pointer-events: all;
 }
+
+.reveal section img {
+    margin: 15px 0px;
+    border: 0;
+    box-shadow: none;
+}
