@@ -8,6 +8,8 @@ function draw_vec2(v, c) {
 // Container for the set of vectors which represent words in this visualization
 let vectors = [];
 
+let c = [window.innerWidth/2, window.innerHeight/2]
+
 p.setup = () => {
     p.createCanvas(window.innerWidth, window.innerHeight)
 
@@ -23,9 +25,13 @@ p.setup = () => {
     }
 }
 
+p.windowResized = () => {
+    c = [window.innerWidth/2, window.innerHeight/2]
+    resizeCanvas(windowWidth, windowHeight);
+}
+
 p.draw = () => {
-    // Center position/maximum ellipse radius
-    let c = [window.innerWidth/2, window.innerHeight/2]
+    p.clear()
 
     // size factor based on the window shape
     let size_factor = Math.min(c[0], c[1]) * (3 / 4)
