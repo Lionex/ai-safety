@@ -31,6 +31,14 @@
             "data-state": "subsection-title"
         }
     },
+    "priors/pipeline.md",
+    "priors/embedding.md",
+    "priors/similarity.md",
+    "priors/but-embeddings.md",
+    "priors/word2vec-diagram.md",
+    "priors/input.md",
+    "priors/weights.md",
+    "priors/output.md",
     {
         "attr": {
             "id": "wevi",
