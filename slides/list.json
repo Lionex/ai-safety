@@ -42,6 +42,7 @@
         "priors/word2vec-diagram.md"
     ],
     "priors/output.md",
+    "priors/back-propagation.md",
     [
         {
             "filename": "priors/wevi.md",
@@ -59,13 +60,12 @@
             "data-state": "subsection-title"
         }
     },
-    {
-        "attr": {
-            "id": "sketch-nudge",
-            "data-background-interactive": null,
-            "data-background-iframe": "sketch/nudge/index.html"
-        }
-    },
+    "priors/nudge.md",
+    "priors/nudge-insight.md",
+    [
+        "priors/analogy.md",
+        "priors/actual-analogy.md"
+    ],
     {
         "filename": "paper/title.md",
         "attr": {
