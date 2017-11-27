@@ -81,6 +81,20 @@
             "data-state": "subsection-title"
         }
     },
+    "paper/data-set.md",
+    "paper/score-analogy.md",
+    [
+        "paper/occupation.md",
+        {
+            "filename": "paper/w2v_v_glove.md",
+            "attr" : {
+                "data-background": "img/w2vNews_v_GloVe.png",
+                "data-background-size": "80vh"
+            }
+        }
+    ],
+    "paper/seed-words.md",
+    "paper/example-bias.md",
     {
         "filename": "paper/geometry.md",
         "attr": {
