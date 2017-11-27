@@ -41,7 +41,7 @@
         "priors/weights.md",
         "priors/word2vec-diagram.md"
     ],
-    "priors/output.md",
+    "priors/output.html",
     "priors/back-propagation.md",
     [
         {
