@@ -101,6 +101,15 @@
             "data-state": "subsection-title"
         }
     },
+    "paper/gender-axis.md",
+    "paper/predict-gender.md",
+    [
+        "paper/predict-pairs.md",
+        "paper/predict-pairs-cont.md"
+    ],
+    "paper/a-complication.md",
+    "paper/complication-elaborated.md",
+    "paper/pca.md",
     {
         "filename": "paper/debiasing.md",
         "attr": {
