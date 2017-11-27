@@ -5,13 +5,12 @@ p(\\mathbf{w}_O | \\mathbf{w}_I) = \\frac
 $$
 
 $$
-u\_O = \\vec{w}{'}\_{O}^{\\mathbf{T}}\\mathbb{h}
+u\_O = \\vec{w}{'}\_{O}^{\\mathbf{T}}\\vec{w}_{I}
 $$
 
 $$
-u\_j = \\vec{w}{'}\_j^{\\mathbf{T}}\\mathbb{h}
+u\_j = \\vec{w}{'}\_j^{\\mathbf{T}}\\vec{w}_{I}
 $$
 
 note:
-- this **_is not_** the transpose of the previous weight matrix
-- distinct representation of the word
+- our hidden layer is just the input word embedding
