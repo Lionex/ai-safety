@@ -37,15 +37,22 @@
     "priors/but-embeddings.md",
     "priors/word2vec-diagram.md",
     "priors/input.md",
-    "priors/weights.md",
+    [
+        "priors/weights.md",
+        "priors/word2vec-diagram.md"
+    ],
     "priors/output.md",
-    {
-        "attr": {
-            "id": "wevi",
-            "data-background-interactive": null,
-            "data-background-iframe": "https://ronxin.github.io/wevi/"
-        }
-    },
+    [
+        {
+            "filename": "priors/wevi.md",
+            "attr": {
+                "id": "wevi",
+                "data-background-interactive": null,
+                "data-background-iframe": "https://ronxin.github.io/wevi/"
+            }
+        },
+        "priors/pipeline.md"
+    ]
     {
         "filename": "priors/insights.md",
         "attr": {
