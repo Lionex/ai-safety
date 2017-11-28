@@ -110,6 +110,7 @@
     ],
     "paper/complication.md",
     "paper/pca.md",
+    "paper/direct-bias.md",
     {
         "filename": "paper/debiasing.md",
         "attr": {
