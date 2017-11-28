@@ -1,4 +1,4 @@
-words **need not** share context to be similar,<br/>to have meaningful relationships
+words **need not** appear side-by-side to be similar,<br/>to have meaningful relationships
 
 note:
 

@@ -1,7 +1,7 @@
 $\\vec{a}$ is to $\\vec{x}$, as $\\vec{b}$ is to $\\vec{y}$
 
 $$
-\\min_{\\vec{y}} \\|(\\vec{a}-\\vec{b}) - (\\vec{x}-\\vec{y})\\|
+(\\vec{a}-\\vec{b}) \\approx (\\vec{x}-\\vec{y})
 $$
 <!-- .element: class="fragment" -->
 
