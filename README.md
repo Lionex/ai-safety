@@ -1,6 +1,19 @@
 # AI Safety & Word2Vec
 
-This presentation covers some topics within AI safety as an introduction to discuss the paper "[Man is to Woman as Computer Programmer is to Housewife]," which is the primary focus of this talk.
+This presentation covers some topics within AI safety as an introduction to discuss the paper "[Man is to Woman as Computer Programmer is to Homemaker]," which is the primary focus of this talk.
+
+# Outline
+
+- Priors
+    - Bias
+    - Algorithm Overview
+    - Key Insights
+- The Paper
+    - Exploring Stereotype
+    - Geometric Properties of Bias
+    - Debiasing
+
+# Contributing
 
 Created using the yeoman generator for reveal.js; you can run the presentation server locally, if you have `npm` and `grunt` installed, with `grunt serve`.  This gives access to features like speaker notes:
 
