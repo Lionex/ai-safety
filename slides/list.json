@@ -35,9 +35,9 @@
     "priors/embedding.md",
     "priors/similarity.md",
     "priors/but-embeddings.md",
-    "priors/word2vec-diagram.md",
-    "priors/input.md",
     [
+        "priors/word2vec-diagram.md",
+        "priors/input.md",
         "priors/weights.md",
         "priors/output.html",
         "priors/back-propagation.md"
