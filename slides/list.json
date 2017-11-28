@@ -122,6 +122,10 @@
             "data-state": "subsection-title"
         }
     },
+    "paper/debias-workflow.md",
+    "paper/debias-hard.md",
+    "paper/debias-soft.md",
+    "paper/debias-results.md",
     "references.html",
     "questions.html"
 ]
