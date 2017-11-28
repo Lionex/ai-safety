@@ -108,8 +108,7 @@
         "paper/predict-pairs.md",
         "paper/predict-pairs-cont.md"
     ],
-    "paper/a-complication.md",
-    "paper/complication-elaborated.md",
+    "paper/complication.md",
     "paper/pca.md",
     {
         "filename": "paper/debiasing.md",
