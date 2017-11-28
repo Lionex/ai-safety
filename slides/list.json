@@ -42,17 +42,6 @@
         "priors/output.html",
         "priors/back-propagation.md"
     ],
-    [
-        {
-            "filename": "priors/wevi.md",
-            "attr": {
-                "id": "wevi",
-                "data-background-interactive": null,
-                "data-background-iframe": "https://ronxin.github.io/wevi/"
-            }
-        },
-        "priors/pipeline.md"
-    ],
     {
         "filename": "priors/insights.md",
         "attr": {
@@ -66,6 +55,17 @@
         "priors/actual-analogy.md"
     ],
     "priors/analogy-example.md",
+    [
+        {
+            "filename": "priors/wevi.md",
+            "attr": {
+                "id": "wevi",
+                "data-background-interactive": null,
+                "data-background-iframe": "https://ronxin.github.io/wevi/"
+            }
+        },
+        "priors/pipeline.md"
+    ],
     {
         "filename": "paper/title.md",
         "attr": {
