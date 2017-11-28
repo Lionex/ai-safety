@@ -3,8 +3,6 @@ words **need not** appear side-by-side to be similar,<br/>to have meaningful rel
 note:
 
 ### Examples
-- articles have similar contexts
-    - will orient together in vector space
 - words that stand in for each-other
     - similar to the same words
     - dissimilar to the same words
