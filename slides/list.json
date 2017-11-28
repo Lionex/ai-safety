@@ -39,10 +39,9 @@
     "priors/input.md",
     [
         "priors/weights.md",
-        "priors/word2vec-diagram.md"
+        "priors/output.html",
+        "priors/back-propagation.md"
     ],
-    "priors/output.html",
-    "priors/back-propagation.md",
     [
         {
             "filename": "priors/wevi.md",
