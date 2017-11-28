@@ -15,6 +15,6 @@ $$
 <small>$\\vec{w}\_{\\perp},\\vec{v}\_{\\perp}$ perpendicular to gender direction</small>
 
 note:
-- measure how much the dot product changes without gender component
+- **measure** _how much the dot product changes without gender component_
 - because of noise, all will have non-zero beta score
 - used to measure pairs of gender-neutral words
