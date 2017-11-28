@@ -1,3 +1,5 @@
+to find all $\\vec{she}$:$\\vec{x}$ :: $\\vec{he}$:$\\vec{y}$ analogies,
+<br/>
 **score** potential analogies against all pairs $\\left(\\vec{x},\\vec{y}\\right)$
 
 <br/>

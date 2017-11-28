@@ -73,6 +73,8 @@
             "data-state": "section-title"
         }
     },
+    "paper-intro.html",
+    "paper/summary.md",
     "paper/scope.md",
     {
         "filename": "paper/exploring.md",
@@ -81,9 +83,11 @@
         }
     },
     "paper/data-set.md",
+    "paper/workflow.md",
     "paper/score-analogy.md",
+    "paper/seed-words.md",
     [
-        "paper/occupation.md",
+        "paper/example-bias.md",
         {
             "filename": "paper/w2v_v_glove.md",
             "attr" : {
@@ -92,8 +96,6 @@
             }
         }
     ],
-    "paper/seed-words.md",
-    "paper/example-bias.md",
     {
         "filename": "paper/geometry.md",
         "attr": {
