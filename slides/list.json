@@ -111,6 +111,11 @@
     "paper/complication.md",
     "paper/pca.md",
     "paper/direct-bias.md",
+    "paper/but-indirect-bias.md",
+    [
+        "paper/indirect-bias.md",
+        "paper/decompose-gender.md"
+    ],
     {
         "filename": "paper/debiasing.md",
         "attr": {
