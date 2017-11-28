@@ -1,9 +1,132 @@
 [
     {
-        "filename": "ai-safety.html",
+        "filename": "index.html",
         "attr": {
             "data-state": "section-title"
         }
     },
-    "scope.html"
+    "paper-intro.html",
+    "scope.html",
+    {
+        "filename": "priors/title.md",
+        "attr": {
+            "data-state": "section-title"
+        }
+    },
+    "priors/scope.md",
+    {
+        "filename": "priors/bias.md",
+        "attr": {
+            "data-state": "subsection-title"
+        }
+    },
+    "priors/english-bias.md",
+    "priors/stereotype.md",
+    "priors/algorithm-bias.md",
+    "priors/word2vec-bias.md",
+    "priors/def-accident.html",
+    {
+        "filename": "priors/algorithm.md",
+        "attr": {
+            "data-state": "subsection-title"
+        }
+    },
+    "priors/pipeline.md",
+    "priors/embedding.md",
+    "priors/similarity.md",
+    "priors/but-embeddings.md",
+    [
+        "priors/word2vec-diagram.md",
+        "priors/input.md",
+        "priors/weights.md",
+        "priors/output.html",
+        "priors/back-propagation.md"
+    ],
+    {
+        "filename": "priors/insights.md",
+        "attr": {
+            "data-state": "subsection-title"
+        }
+    },
+    "priors/nudge.md",
+    "priors/nudge-insight.md",
+    [
+        "priors/analogy.md",
+        "priors/actual-analogy.md"
+    ],
+    "priors/analogy-example.md",
+    [
+        {
+            "filename": "priors/wevi.md",
+            "attr": {
+                "id": "wevi",
+                "data-background-interactive": null,
+                "data-background-iframe": "https://ronxin.github.io/wevi/"
+            }
+        },
+        "priors/pipeline.md"
+    ],
+    {
+        "filename": "paper/title.md",
+        "attr": {
+            "id": "paper",
+            "data-state": "section-title"
+        }
+    },
+    "paper-intro.html",
+    "paper/summary.md",
+    "paper/scope.md",
+    {
+        "filename": "paper/exploring.md",
+        "attr": {
+            "data-state": "subsection-title"
+        }
+    },
+    "paper/data-set.md",
+    "paper/workflow.md",
+    "paper/score-analogy.md",
+    "paper/seed-words.md",
+    [
+        "paper/example-bias.md",
+        {
+            "filename": "paper/w2v_v_glove.md",
+            "attr" : {
+                "data-background": "img/w2vNews_v_GloVe.png",
+                "data-background-size": "80vh"
+            }
+        }
+    ],
+    {
+        "filename": "paper/geometry.md",
+        "attr": {
+            "data-state": "subsection-title"
+        }
+    },
+    "paper/gender-axis.md",
+    "paper/predict-gender.md",
+    [
+        "paper/predict-pairs.md",
+        "paper/predict-pairs-cont.md"
+    ],
+    "paper/complication.md",
+    "paper/pca.md",
+    "paper/direct-bias.md",
+    "paper/but-indirect-bias.md",
+    [
+        "paper/indirect-bias.md",
+        "paper/decompose-gender.md"
+    ],
+    {
+        "filename": "paper/debiasing.md",
+        "attr": {
+            "data-state": "subsection-title"
+        }
+    },
+    "paper/debias-workflow.md",
+    "paper/debias-hard.md",
+    "paper/debias-soft.md",
+    "paper/debias-results.md",
+    "paper/discussion.md",
+    "references.html",
+    "questions.html"
 ]

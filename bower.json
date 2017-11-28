@@ -2,7 +2,8 @@
   "name": "ai-safety-word2vec",
   "version": "0.0.1",
   "dependencies": {
-    "reveal.js": "~3.3.0",
-    "highlightjs": "~9.0.0"
+    "reveal.js": "~3.6.0",
+    "highlightjs": "~9.0.0",
+    "p5js": "~0.5.13"
   }
 }

@@ -17,7 +17,7 @@
 
 
         <!-- For syntax highlighting -->
-        <link rel="stylesheet" href="bower_components/highlightjs/styles/zenburn.css">
+        <link rel="stylesheet" href="bower_components/highlightjs/styles/darkula.css">
 
         <!-- Printing and PDF exports -->
         <script>
@@ -55,6 +55,7 @@
 
         </main>
 
+        <!-- Reveal.js -->
         <script src="bower_components/reveal.js/lib/js/head.min.js"></script>
         <script src="bower_components/reveal.js/js/reveal.js"></script>
         <script>
@@ -66,6 +67,7 @@
             progress: true,
             history: true,
             center: true,
+            slideNumber: 'c/t',
 
             transition: 'slide', // none/fade/slide/convex/concave/zoom
 
@@ -77,7 +79,8 @@
               { src: 'bower_components/reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( '[data-html]' ) || !!document.querySelector( 'pre code' ) || !!document.querySelector( '[data-markdown]' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
               { src: 'bower_components/reveal.js/plugin/zoom-js/zoom.js', async: true },
               { src: 'bower_components/reveal.js/plugin/notes/notes.js', async: true },
-              { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
+              { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } },
+              { src: 'bower_components/reveal.js/plugin/math/math.js', async: true }
             ]
           });
 
